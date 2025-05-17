@@ -24,7 +24,7 @@ This project was led by **Pranav**, guiding a team of enthusiastic developers an
 ## 🚀 Getting Started
 To run this project locally:
 
-git clone : 
+git clone : https://github.com/Vishwanathangit/Pranav-2K24.git
 
 cd Pranav 2K24
 
